@@ -1,1 +1,0 @@
-<h3>The current temperature in {{ city }}: {{temperature}} °C </h3>
